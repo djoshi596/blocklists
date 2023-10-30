@@ -63,3 +63,17 @@ l.facebook.com
 fb.com
 #instagram
 instagram.com
+#Yahoo
+yahoo.com
+mail.yahoo.com
+#Gmail
+mail.google.com
+gmail.com
+#IndianNews
+aajtak.in
+timesofindia.com
+news18.com
+indiatimes.com
+hindustantimes.com
+divyabhaskar.co.in
+dainkbhaskar.co.in
